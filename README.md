@@ -20,7 +20,7 @@ You can see a live demo of the application [here](#) (replace with the actual UR
 
 ## Video
 
-https://www.flexclip.com/es/tools/screen-recorder/
+[https://www.flexclip.com/es/tools/screen-recorder/](https://www.loom.com/share/d817725f862e45a2990067d3dd7e388e)
 
 ### Desktop View
 ![image](https://github.com/user-attachments/assets/80877aa5-1c00-4199-82b8-a516ae994392)
