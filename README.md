@@ -18,6 +18,10 @@ You can see a live demo of the application [here](#) (replace with the actual UR
 
 ## Screenshots
 
+## Video
+
+https://www.flexclip.com/es/tools/screen-recorder/
+
 ### Desktop View
 ![image](https://github.com/user-attachments/assets/80877aa5-1c00-4199-82b8-a516ae994392)
 
