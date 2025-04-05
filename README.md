@@ -2,8 +2,6 @@
 
 # UK Energy Mix Dashboard
 
-![UK Energy Mix Dashboard](https://via.placeholder.com/800x400.png?text=UK+Energy+Mix+Dashboard) <!-- Reemplaza con una captura de pantalla real si tienes una -->
-
 A responsive web application built with React, TypeScript, Tailwind CSS, and Chart.js to visualize the energy mix of the United Kingdom. The dashboard displays energy generation data through interactive charts (Pie, Bar, and Line) and a list of fuel types with their respective percentages. The project follows the **Atomic Design** methodology for component organization and is designed to be fully responsive across all screen sizes.
 
 ## Features
