@@ -23,23 +23,21 @@ You can see a live demo of the application [here](#) (replace with the actual UR
 ## Screenshots
 
 ### Desktop View
-![Desktop View](https://via.placeholder.com/800x400.png?text=Desktop+View)
+![image](https://github.com/user-attachments/assets/80877aa5-1c00-4199-82b8-a516ae994392)
 
 ### Mobile View
-![Mobile View](https://via.placeholder.com/400x800.png?text=Mobile+View)
+![image](https://github.com/user-attachments/assets/603609ea-34e8-4987-97bf-f914fa6d5a8b)
+![image](https://github.com/user-attachments/assets/8c89712f-58e6-47a2-b5ec-082a464636ec)
 
 ## Installation
 
-Follow these steps to set up the project locally:
+npn i
+npm start
 
 ### Prerequisites
 
 - **Node.js** (v16 or higher)
 - **npm** (v7 or higher) or **yarn**
 
-### Steps
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/uk-energy-mix-dashboard.git
-   cd uk-energy-mix-dashboard
+
