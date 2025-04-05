@@ -1,7 +1,5 @@
 # Avify Take Home React - Test
 
-# UK Energy Mix Dashboard
-
 A responsive web application built with React, TypeScript, Tailwind CSS, and Chart.js to visualize the energy mix of the United Kingdom. The dashboard displays energy generation data through interactive charts (Pie, Bar, and Line) and a list of fuel types with their respective percentages. The project follows the **Atomic Design** methodology for component organization and is designed to be fully responsive across all screen sizes.
 
 ## Features
