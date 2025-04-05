@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 30px;
+}
+
+.container .graphics-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  width: 100%;
+}
+
+.container .graphics-container .charts {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  width: 100%;
+}
+
+.container .graphics-container .chart {
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  border: 2px solid #e3e2e2;
+  height: 300px;
+  overflow: auto;
+}
+
+/* Fuel Items */
+.container .fuel-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); 
+  gap: 10px;
+  align-items: center;
+  justify-items: center;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .container .graphics-container {
+    grid-template-columns: 1fr;
+  }
+
+  .container .graphics-container .charts {
+    grid-template-columns: repeat(2, 1fr); 
+  }
+
+  .container .graphics-container .chart {
+    height: auto;
+  }
+
+  .container .fuel-items {
+    grid-column: 1 / -1; 
+  }
+}

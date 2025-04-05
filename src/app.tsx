@@ -1,6 +1,7 @@
 import React from 'react';
+import Home from './ui/view/Home';
 
-const App = () => <h1>UK Energy Mix</h1>;
+const App = () => <Home />;
 
 export {
     App
