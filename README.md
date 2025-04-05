@@ -22,6 +22,9 @@ You can see a live demo of the application [here](#) (replace with the actual UR
 
 [https://www.flexclip.com/es/tools/screen-recorder/](https://www.loom.com/share/d817725f862e45a2990067d3dd7e388e)
 
+I'm having an issue with the hosting configuration, so I've left a video for you to see how the application turned out. Once the hosting issue is resolved, you'll be able to access the site without any problems.
+[hosting Firabase] https://test-e16e4.web.app/
+
 ### Desktop View
 ![image](https://github.com/user-attachments/assets/80877aa5-1c00-4199-82b8-a516ae994392)
 
