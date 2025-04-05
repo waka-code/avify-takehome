@@ -31,8 +31,7 @@ You can see a live demo of the application [here](#) (replace with the actual UR
 
 ## Installation
 
-npn i
-npm start
+npn install 
 
 ### Prerequisites
 
